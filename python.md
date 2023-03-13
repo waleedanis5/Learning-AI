@@ -31,7 +31,10 @@
           ![Alt text](Screenshot%202023-03-13%20202010.png)
 
 
-          
+# step 5: Create file with the jupyter lab 
+  * conda prompt -> cd path 
+     * write " jupyter lab"<br>
+        ![Alt text](Screenshot%202023-03-13%20202334.png)
               
             
                    
