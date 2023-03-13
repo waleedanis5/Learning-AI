@@ -35,6 +35,12 @@
   * conda prompt -> cd path 
      * write " jupyter lab"<br>
         ![Alt text](Screenshot%202023-03-13%20202334.png)
+
+# step 6: Google Collab 
+   * you must have google account 
+     * Go to google and type google collab
+       * create the google collab file <br>
+          ![Alt text](Screenshot%202023-03-13%20202749.png)
               
             
                    
