@@ -15,6 +15,9 @@
           * explore and create new file task.py <br>
             ``` print ("Hello Waleed Anis") ```
                         ![Alt text](Screenshot%202023-03-13%20200445.png)
+              * copy file path and run in anaconda and run on in it <br>
+                           ![Alt text](Screenshot%202023-03-13%20200832.png)
+              
             
                    
                
