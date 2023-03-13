@@ -17,6 +17,12 @@
                         ![Alt text](Screenshot%202023-03-13%20200445.png)
               * copy file path and run in anaconda and run on in it <br>
                            ![Alt text](Screenshot%202023-03-13%20200832.png)
+
+# step 3: Create Jupyter Notebook
+  * conda prompt 
+     * jupyter notebook 
+          * right top new create new 
+              ![Alt text](Screenshot%202023-03-13%20201213.png)
               
             
                    
