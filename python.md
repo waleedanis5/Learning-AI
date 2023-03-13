@@ -23,6 +23,12 @@
      * jupyter notebook 
           * right top new create new 
               ![Alt text](Screenshot%202023-03-13%20201213.png)
+
+# step 4: Open in IDE 
+  * select the any IDE 
+    * open vs code 
+      * create .py file and run it 
+      
               
             
                    
