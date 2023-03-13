@@ -6,3 +6,15 @@
               * python <br>
                   ```print ("hello Waleed Anis ) ```
                      ![Alt text](Screenshot%202023-03-13%20193825.png)
+
+## step 2: create physical file filename.py
+   * create the folder or directory
+     * go to the path and clear and write in cmd and type code 
+       * its open the vs code 
+          * explore and create new file task.py <br>
+            ``` print ("Hello Waleed Anis") ```
+                   ![Alt text](Screenshot%202023-03-13%20195118.png)int ("Hello Waleed Anis") ```
+             
+
+               
+
