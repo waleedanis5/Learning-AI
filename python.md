@@ -28,7 +28,10 @@
   * select the any IDE 
     * open vs code 
       * create .py file and run it 
-      
+          ![Alt text](Screenshot%202023-03-13%20202010.png)
+
+
+          
               
             
                    
