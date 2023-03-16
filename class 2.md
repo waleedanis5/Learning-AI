@@ -1,9 +1,47 @@
 {
  "cells": [
   {
+   "cell_type": "markdown",
+   "id": "69cb9698-9343-499c-bb0e-c95d4d2147ac",
+   "metadata": {},
+   "source": [
+    "# class 2\n",
+    "\n",
+    "* Help\n",
+    "   * function_name()\n",
+    "   * help function\n",
+    "   * function_name(press shift+tab)\n",
+    "   * function?\n",
+    "   * function??\n",
+    "   * ?function\n",
+    "   * ??function\n",
+    "   \n",
+    "* print\n",
+    "   * value \n",
+    "   * sep\n",
+    "   * end\n",
+    "   \n",
+    "* variable\n",
+    "   * string\n",
+    "     * start with \" and end with \"\n",
+    "     \"Muhammad Qasim\"\n",
+    "   * you can also use these symbols for define string\n",
+    "     * ' single line string\n",
+    "     * \" single line string\n",
+    "     * \"\"\" multilines string\n",
+    "     * ''' multilines string\n",
+    "\n",
+    "* number\n",
+    "   * int\n",
+    "      * 1\n",
+    "   * float\n",
+    "      * 1.5\n"
+   ]
+  },
+  {
    "cell_type": "code",
    "execution_count": null,
-   "id": "f8d93185-b982-460a-b324-45292812a5e5",
+   "id": "a93d6c05-ae57-4e77-9eea-cc7208a126ff",
    "metadata": {},
    "outputs": [],
    "source": []
